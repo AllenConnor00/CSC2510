@@ -1,4 +1,4 @@
 # CSC2510
 
-Author: ur mom
+Author: not ur mom
 Date: Jan 23 2024
